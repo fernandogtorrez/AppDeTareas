@@ -1,0 +1,34 @@
+[
+   {
+      "titulo": "Repasar JS",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Armar App de Tareas",
+      "estado": "progreso"
+   },
+   {
+      "titulo": "Break",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "app de tareas",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "app de tareas2",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "nueva tarea",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Repasar Node Js",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Repasar TypeScrips",
+      "estado": "pendiente"
+   }
+]
